@@ -1,12 +1,12 @@
-# Steam game Scraper & Unofficial API (Python, Node.js, MCP)
+# Steam Game Scraper & Unofficial API (Python, Node.js, MCP)
 
-[Run Steam Game Intelligence Scraper - Owners, Players & Pricing on Apify](https://apify.com/evpp/steam-game-intel) to export Steam game data as clean JSON, CSV, Excel, or an API feed. This repository is a developer quick-start kit with working Python and Node.js clients, an MCP configuration, a real sample dataset, and an n8n automation template.
+[Run Steam Game Intelligence Scraper - Owners, Players & Pricing on Apify](https://apify.com/evpp/steam-game-intel) to export Steam Game data as clean JSON, CSV, Excel, or an API feed. This repository is a developer quick-start kit with working Python and Node.js clients, an MCP configuration, a real sample dataset, and an n8n automation template.
 
 [![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-orange)](https://apify.com/evpp/steam-game-intel)
 
-## Why use this Steam game scraper?
+## Why use this Steam Game scraper?
 
-- Export Steam game data without building or maintaining a custom scraper
+- Export Steam Game data without building or maintaining a custom scraper
 - Get flat, schema documented JSON ready for analytics, lead generation, market research, and AI agents
 - Run manually, on a schedule, through the Apify API, or through MCP compatible AI tools
 - Use the included 25+ row sample dataset to prototype before running the live Actor

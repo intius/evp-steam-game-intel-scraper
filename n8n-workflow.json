@@ -13,7 +13,7 @@
           ]
         }
       },
-      "id": "58eb82f5-21a4-49ad-a3d6-b8bc88a724d6",
+      "id": "69b99487-97f0-488f-a814-c265477c3f23",
       "name": "Run every morning",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
@@ -41,7 +41,7 @@
         "build": "latest",
         "authentication": "apifyApi"
       },
-      "id": "a14c4e2c-d5c2-480d-adaf-5ebce46bbf6f",
+      "id": "d4804583-fe23-47d1-8fd6-729f233b932a",
       "name": "Run Steam Game Intelligence Scraper",
       "type": "@apify/n8n-nodes-apify.apify",
       "typeVersion": 1,
@@ -64,7 +64,7 @@
         "jsonBody": "={{ $json }}",
         "options": {}
       },
-      "id": "fef4b46c-53bc-4589-8762-501e58146a73",
+      "id": "5df66c10-0534-4065-8d3d-ca62fb20482c",
       "name": "Send results to webhook",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
