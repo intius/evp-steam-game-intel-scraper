@@ -1,15 +1,15 @@
-# Steam Game Data Scraper & Unofficial API (Python, Node.js, MCP)
+# Steam game Scraper & Unofficial API (Python, Node.js, MCP)
 
-[Run Steam Game Intelligence Scraper - Owners, Players & Pricing on Apify](https://apify.com/evpp/steam-game-intel) to export Steam Game Data data as clean JSON, CSV, Excel, or an API feed. This repository is a developer quick-start kit with working Python and Node.js clients, an MCP configuration, a real sample dataset, and an n8n automation template.
+[Run Steam Game Intelligence Scraper - Owners, Players & Pricing on Apify](https://apify.com/evpp/steam-game-intel) to export Steam game data as clean JSON, CSV, Excel, or an API feed. This repository is a developer quick-start kit with working Python and Node.js clients, an MCP configuration, a real sample dataset, and an n8n automation template.
 
 [![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-orange)](https://apify.com/evpp/steam-game-intel)
 
-## Why use this Steam Game Data scraper?
+## Why use this Steam game scraper?
 
-- Export Steam Game Data data without building or maintaining a custom scraper
+- Export Steam game data without building or maintaining a custom scraper
 - Get flat, schema documented JSON ready for analytics, lead generation, market research, and AI agents
 - Run manually, on a schedule, through the Apify API, or through MCP compatible AI tools
-- Use the included 25 plus row sample dataset to prototype before running the live Actor
+- Use the included 25+ row sample dataset to prototype before running the live Actor
 
 Built for Indie game studios doing market research, game publishers/investors sizing genres, analysts tracking competitor pricing.
 
@@ -141,7 +141,7 @@ The first sanitized row from the included sample dataset:
 | `node/run.mjs` | Working Node.js Apify API example |
 | `mcp-config.json` | MCP server configuration for AI agents |
 | `sample-output.json` | First five sanitized sample rows |
-| `dataset-snapshot.csv` | 25 plus row evaluation snapshot |
+| `dataset-snapshot.csv` | 25+ row evaluation snapshot |
 | `DATASET_CARD.md` | Dataset documentation and provenance |
 | `n8n-workflow.json` | Scheduled n8n automation template |
 
