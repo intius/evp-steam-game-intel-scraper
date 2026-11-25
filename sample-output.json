@@ -1,0 +1,160 @@
+[
+  {
+    "appId": 10,
+    "name": "Counter-Strike",
+    "url": "https://store.steampowered.com/app/10/",
+    "type": "game",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "isFree": false,
+    "price": 9.99,
+    "currency": "USD",
+    "discountPercent": 0,
+    "releaseDate": "2000-11-01",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "owners": "20,000,000 .. 50,000,000",
+    "positive": 165704,
+    "negative": 5175,
+    "userScore": 96,
+    "scoreRank": 99,
+    "ccu": 11366,
+    "reviewScore": "Overwhelmingly Positive",
+    "totalPositive": 165704,
+    "totalNegative": 5175,
+    "recommendations": 170982
+  },
+  {
+    "appId": 70,
+    "name": "Half-Life",
+    "url": "https://store.steampowered.com/app/70/",
+    "type": "game",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "isFree": false,
+    "price": 9.99,
+    "currency": "USD",
+    "discountPercent": 0,
+    "releaseDate": "1998-11-19",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "owners": "10,000,000 .. 20,000,000",
+    "positive": 114802,
+    "negative": 4034,
+    "userScore": 96,
+    "scoreRank": 99,
+    "ccu": 914,
+    "reviewScore": "Overwhelmingly Positive",
+    "totalPositive": 114802,
+    "totalNegative": 4034,
+    "recommendations": 118865
+  },
+  {
+    "appId": 80,
+    "name": "Counter-Strike: Condition Zero",
+    "url": "https://store.steampowered.com/app/80/",
+    "type": "game",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "isFree": false,
+    "price": 9.99,
+    "currency": "USD",
+    "discountPercent": 0,
+    "releaseDate": "2004-03-01",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "owners": "10,000,000 .. 20,000,000",
+    "positive": 19625,
+    "negative": 1978,
+    "userScore": 90,
+    "scoreRank": 92,
+    "ccu": 451,
+    "reviewScore": "Very Positive",
+    "totalPositive": 19625,
+    "totalNegative": 1978,
+    "recommendations": 21609
+  },
+  {
+    "appId": 220,
+    "name": "Half-Life 2",
+    "url": "https://store.steampowered.com/app/220/",
+    "type": "game",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "isFree": false,
+    "price": 9.99,
+    "currency": "USD",
+    "discountPercent": 0,
+    "releaseDate": "2004-11-16",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "owners": "10,000,000 .. 20,000,000",
+    "positive": 200858,
+    "negative": 4726,
+    "userScore": 97,
+    "scoreRank": 99,
+    "ccu": 1821,
+    "reviewScore": "Overwhelmingly Positive",
+    "totalPositive": 200858,
+    "totalNegative": 4726,
+    "recommendations": 205636
+  },
+  {
+    "appId": 240,
+    "name": "Counter-Strike: Source",
+    "url": "https://store.steampowered.com/app/240/",
+    "type": "game",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "isFree": false,
+    "price": 9.99,
+    "currency": "USD",
+    "discountPercent": 0,
+    "releaseDate": "2004-11-01",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "owners": "10,000,000 .. 20,000,000",
+    "positive": 131427,
+    "negative": 4921,
+    "userScore": 96,
+    "scoreRank": 99,
+    "ccu": 3558,
+    "reviewScore": "Overwhelmingly Positive",
+    "totalPositive": 131427,
+    "totalNegative": 4921,
+    "recommendations": 136387
+  }
+]
