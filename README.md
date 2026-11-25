@@ -4,6 +4,8 @@
 
 [![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-orange)](https://apify.com/evpp/steam-game-intel)
 
+[Open the documentation and crawlable sample explorer](https://intius.github.io/evp-labs-data-extractors/actors/steam-game-intel/) for quick inputs, integration links, real sample rows, and ready-made task examples.
+
 ## Why use this Steam Game scraper?
 
 - Export Steam Game data without building or maintaining a custom scraper
